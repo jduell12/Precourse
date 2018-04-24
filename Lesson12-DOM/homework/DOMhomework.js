@@ -156,7 +156,7 @@ function completeToDo(event) {
   displayToDos();
 }
 
-// ToDo.prototype.completeToDo.call(toDoItems[index])
+
 /* STEP 10: Make sure ALL tests pass */
 
 
